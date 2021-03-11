@@ -1,4 +1,5 @@
-Składniki
+Ingredients
+>>>>>>> origin/master
 
     3 medium Italian eggplants (about 2 pounds/900g total)
     3 medium cloves garlic, minced
